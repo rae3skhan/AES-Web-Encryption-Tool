@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encyption and Decryption</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="/script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <h1>AES Encryption and Decryption</h1>
+        <div class="input-section">
+            <label for="plaintext">Plaintext:</label>
+            <textarea id="plaintext" placeholder="Enter Plaintext here..."></textarea>
+            <button id="encryptButton">Encrypt</button>
+
+        </div>
+        <div class="input-section">
+            <label for="ciphertext">Ciphertext:</label>
+            <textarea id="ciphertext" placeholder="Enter Ciphertext here..."></textarea>
+            <button id="decryptButton">Decrypt</button>
+        </div>
+<div class="output-section">
+    <h2>Output: </h2>
+    <p id="output"></p>
+</div>
+
+
+    </div>
+</body>
+</html>
