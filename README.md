@@ -1,5 +1,9 @@
 # AES Encryption and Decryption Web Tool
 
+
+<img src="https://github.com/user-attachments/assets/70d46b02-b7f2-483a-82a1-f3d53bfbc8d6" width="500" height="500">
+
+
 ## Description
 
 This project provides a simple web application for encrypting and decrypting text using AES encryption, leveraging the CryptoJS library. It's designed to demonstrate the basics of encryption and decryption for educational purposes or for anyone interested in implementing basic security measures in their web applications.
@@ -45,6 +49,9 @@ Contributions are welcome! For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Author
+Raees Khan
 
 ## Contact
 
