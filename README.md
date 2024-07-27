@@ -1,7 +1,7 @@
 # AES Encryption and Decryption Web Tool
 
 
-<img src="https://github.com/user-attachments/assets/70d46b02-b7f2-483a-82a1-f3d53bfbc8d6" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/70d46b02-b7f2-483a-82a1-f3d53bfbc8d6" width="1000" height="500">
 
 
 ## Description
